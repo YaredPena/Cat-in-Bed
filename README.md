@@ -1,4 +1,12 @@
 # Cat-in-Bed
+
+# Description
 A project which displays an animation of a cat turning a lamp on and off.
 
-This project uses HTML and CSS.
+# Dependencies
+Front End
+- HTML
+- CSS
+
+# Authors
+- @penayared16
